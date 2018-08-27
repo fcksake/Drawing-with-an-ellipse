@@ -1,0 +1,1 @@
+# Drawing with an ellipse
